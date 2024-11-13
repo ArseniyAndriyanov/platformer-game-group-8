@@ -1,1 +1,1 @@
-# platformer-game-group-8
+# Platformer - Player's Logics
